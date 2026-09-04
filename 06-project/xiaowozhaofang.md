@@ -1,7 +1,0 @@
-# 小蜗找房（找房用户端）
-
-- 定位：待补充
-- 技术栈：待补充
-- 仓库位置：外包项目\01_进行中 或 02_已交付（按项目状态）
-- 现状 / 进度：待补充
-- 关联知识：00-product、01-schema（user / house / community / message / follow）、99-skill/skill-house-platform.md
